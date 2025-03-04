@@ -53,6 +53,20 @@ header {
     margin: 0;
     z-index: 0;
   }
+
+  .novità{
+    position: relative;
+
+  }
+
+  .novità h2{
+
+    width: 150px;
+    position: absolute;
+    bottom: 120px;
+    left: 30px;
+
+  }
 }
 
 
