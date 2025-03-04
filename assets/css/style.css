@@ -77,7 +77,7 @@ box-shadow: 0px 10px 13px -7px #000000, -1px 7px 39px -6px rgba(50,50,50,0.43);
     position: relative;
     width: 70px;
     height: 70px;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.315);
   }
 
   .calendario .fas.fa-calendar-alt {
@@ -99,12 +99,62 @@ box-shadow: 0px 10px 13px -7px #000000, -1px 7px 39px -6px rgba(50,50,50,0.43);
   position: sticky;
   left: 0;
 }
+
+.piu{
+  border: solid rgb(255, 255, 255);
+    border-radius: 12px;
+    
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 0.307);
+}
+.fas.fa-plus-square {
+  font-size: 50px;
+  position: absolute; 
+  left: 11px; 
+  top: 8px; 
+}
+#sposto-piu{
+  position: fixed;
+  bottom: 15%;
+  left: 90%;
+}
+
+.immagine{
+  border: solid rgb(255, 255, 255);
+    border-radius: 12px;
+    
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 0.315);
+}
+.far.fa-caret-square-up {
+  font-size: 50px;
+  position: absolute; 
+  left: 11px; 
+  top: 8px;
+  background-color: rgba(255, 255, 255, 0.315);
+}
+
+#sposto-immagine{
+  position: fixed;
+  bottom: 30%;
+  left: 90%;
+}
+
+
 }
 
 
 @media screen and (min-width: 656px) {
+  
+  
   .titolo-container {
+    
     display: none;
+    
   }
 }
 
