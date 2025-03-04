@@ -82,6 +82,7 @@ box-shadow: 0px 10px 13px -7px #000000, -1px 7px 39px -6px rgba(50,50,50,0.43);
 
   .calendario .fas.fa-calendar-alt {
     font-size: 40px;
+    color: #3f6bca;
     position: absolute;
     left: 16px;
     top: 10px;
@@ -111,6 +112,7 @@ box-shadow: 0px 10px 13px -7px #000000, -1px 7px 39px -6px rgba(50,50,50,0.43);
 }
 .fas.fa-plus-square {
   font-size: 50px;
+  color: #3f6bca;
   position: absolute; 
   left: 11px; 
   top: 8px; 
@@ -132,6 +134,7 @@ box-shadow: 0px 10px 13px -7px #000000, -1px 7px 39px -6px rgba(50,50,50,0.43);
 }
 .far.fa-caret-square-up {
   font-size: 50px;
+  color: #a02571;
   position: absolute; 
   left: 11px; 
   top: 8px;
